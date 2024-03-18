@@ -1,5 +1,7 @@
-# CountryInfo-App
-A sleek and intuitive iOS application crafted to empower users to explore and manage country demographics effortlessly. Beyond just viewing information, CountryInfo offers a seamless experience with dynamic data management and intuitive interfaces.
+# Continent and Country Statistics App
+
+A sleek and intuitive iOS application crafted to empower users to explore and manage country demographics effortlessly. Beyond just viewing information, Continent and Country Statistics App
+ offers a seamless experience with dynamic data management and intuitive interfaces.
 
 ## Features
 - **Data Model:** Efficiently organizes country data by continents, ensuring streamlined data handling and minimal overhead.
@@ -13,7 +15,7 @@ A sleek and intuitive iOS application crafted to empower users to explore and ma
 - Customize the application as needed to enhance the user experience.
 
 ## Usage
-- CountryInfo empowers users to curate and manage country demographics with precision. Seamlessly navigate continents and add new countries effortlessly, ensuring accurate representation of global statistics.
+- Continent and Country Statistics App empowers users to curate and manage country demographics with precision. Seamlessly navigate continents and add new countries effortlessly, ensuring accurate representation of global statistics.
 
 ## Contributing
-- Contributions are welcome! If you have any suggestions, feature requests, or bug reports, please open an issue on GitHub. Let's collaborate to make CountryInfo even better!
+- Contributions are welcome! If you have any suggestions, feature requests, or bug reports, please open an issue on GitHub. Let's collaborate to make Continent and Country Statistics App even better!
