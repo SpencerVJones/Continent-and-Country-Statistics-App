@@ -1,4 +1,8 @@
 # Continent and Country Statistics App
+  <div align="left">
+	
+![Repo Views](https://visitor-badge.laobi.icu/badge?page_id=SpencerVJones/Continent-and-Country-Statistics-App)
+</div>
 A sleek and intuitive iOS application crafted to empower users to explore and manage country demographics effortlessly. Beyond just viewing information, Continent and Country Statistics App
  offers a seamless experience with dynamic data management and intuitive interfaces.
 
